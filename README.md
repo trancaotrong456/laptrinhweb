@@ -1,2 +1,2 @@
 # laptrinhweb
-LAB 2
+LAB 2 ,EXE 1,EXE 2
